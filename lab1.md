@@ -2,9 +2,9 @@
 ## cd
 ![Image](cd1.png)
   
-Working directory: '''
+Working directory: ~~~
 /home/lecture1/messages
-'''
+~~~
 
 Explanation: We got this output because when you use the cd command with no arguments, you are changing the directory to the home directory.
 This is because the starting directory of this terminal is the /home directory.
