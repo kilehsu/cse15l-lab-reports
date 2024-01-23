@@ -64,20 +64,20 @@ Working directory:
 /home
 ~~~
 
-Explanation: We got this output because when you use the ls command with a path to a file as an argument, it will show the contents of that directory which is nothing because it 
-is a file and not a directory.
+Explanation: We got this output because when you use the ls command with a path to a file as an argument, it will show the directory of lecture1/Hello.java which just is showing that the directory exists.
 
 Error: No
 ## cat
-![Image](cat1.png)
+![Image](cat1fixed.png)
 
 Working directory: 
 ~~~
 /home
 ~~~
 
-Explanation: We got this output because when you run the cat command with no arguments, it won't display anything because there are no contents for it to read.
-Error: There is an error because no argument provided for this command will not give it anything to read.
+Explanation: We got this output because when you run the cat command with no arguments, it takes the input from the command terminal and outputs what the user puts.
+
+Error: No
 
 ![Image](cat2.png)
 
