@@ -64,7 +64,7 @@ Working directory:
 /home
 ~~~
 
-Explanation: We got this output because when you use the ls command with a path to a file as an argument, it will show the directory of lecture1/Hello.java which just is showing that the directory exists.
+Explanation: We got this output because when you use the ls command with a path to a file as an argument, it will show the contents to lecture1/Hello.java which just is showing the path iteself.
 
 Error: No
 ## cat
