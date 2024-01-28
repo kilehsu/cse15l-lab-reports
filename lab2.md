@@ -55,9 +55,7 @@ handleRequest(URI url)
 ### Arguments and Relevant Fields:
 
 The url argument is relevant to this method call because it is what specifies which url to read from in the method.
-
 The values of the fullMsg change after handle request is called and the values of the parameter array are changed depending
-
 on the argument of the message.
 
 ~~~
@@ -79,9 +77,7 @@ handleRequest(URI url)
 ### Arguments and Relevant Fields:
 
 The url argument is relevant to this method call because it is what specifies which url to read from in the method.
-
 The values of the fullMsg change after handle request is called to include both the messages from each time the handleRequest is called
-
 and the values of the parameter array are changed depending on the argument of the message.
 
 ~~~
