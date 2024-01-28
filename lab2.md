@@ -1,6 +1,6 @@
 # Lab Report 2
 
-##ChatServer Code:
+## ChatServer Code:
 
 ~~~~
 import java.io.IOException;
@@ -42,17 +42,17 @@ class ChatServer {
 }
 ~~~~
 
-##Screenshots
+## Screenshots
 
 ![Image](chatserver1.png)
 
-###Methods Called: 
+### Methods Called: 
 
 ~~~
 handleRequest(URI url)
 ~~~
 
-###Arguments and Relevant Fields:
+### Arguments and Relevant Fields:
 
 The url argument is relevant to this method call because it is what specifies which url to read from in the method.
 
@@ -70,13 +70,13 @@ parameters[2] = "Kile"
 
 ![Image](chatserver2.png)
 
-###Methods Called: 
+### Methods Called: 
 
 ~~~
 handleRequest(URI url)
 ~~~
 
-###Arguments and Relevant Fields:
+### Arguments and Relevant Fields:
 
 The url argument is relevant to this method call because it is what specifies which url to read from in the method.
 
