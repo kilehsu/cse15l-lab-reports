@@ -86,7 +86,7 @@ and the values of the parameter array are changed depending on the argument of t
 
 ~~~
 fullMsg = "Kile: Hello!
-Whopper1: Hi there how are you?"
+           Whopper1: Hi there how are you?"
 url = localhost:4000/add-message?s=Hi%20there%20how%20are%20you?&user=Whopper1
 parameters[0] = "s"
 parameters[1] = "Hi%20there%20how%20are%20you?&user"
