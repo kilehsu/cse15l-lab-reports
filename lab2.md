@@ -64,6 +64,7 @@ url = localhost:4000/add-message?s=Hello!&user=Kile
 parameters[0] = "s"
 parameters[1] = "Hello!&user"
 parameters[2] = "Kile"
+message = "Hello!"
 ~~~
 
 ![Image](chatserver2.png)
@@ -87,6 +88,7 @@ url = localhost:4000/add-message?s=Hi%20there%20how%20are%20you?&user=Whopper1
 parameters[0] = "s"
 parameters[1] = "Hi%20there%20how%20are%20you?&user"
 parameters[2] = "Whopper1"
+message = "Hi there how are you?"
 ~~~
 
 
