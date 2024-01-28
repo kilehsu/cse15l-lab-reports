@@ -1,6 +1,6 @@
 # Lab Report 2
 
-## ChatServer Code:
+## ChatServer Code (Part 1)
 
 ~~~~
 import java.io.IOException;
@@ -91,7 +91,26 @@ parameters[2] = "Whopper1"
 message = "Hi there how are you?"
 ~~~
 
+## SSH (Part 2)
 
+### Private Key Absolute Path
+
+![Image](privkey.png)
+
+### Public Key Absolute Path
+
+![Image](pubkey.png)
+
+### Terminal Interaction
+
+![Image](terminal.png)
+
+## Part 3
+
+One thing that I learned from lab in week 2 and 3 was how to add a public key in order to ssh
+into a remote server without being prompted for a password. I was able to use the mkdir command in the
+remote server in order to use the scp command to copy my public key into the remote server's directory for my
+authorized key.
 
 
 
