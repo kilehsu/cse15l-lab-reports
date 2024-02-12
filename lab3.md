@@ -123,7 +123,7 @@ not included in a word like "undeveloping". This is useful to see the actual occ
 ~~~~
 grep -w --color "develop" journal.pbio.0020001.txt
 ~~~~
-**Ouput**
+**Output**
 ![Image](w2.png)
 
 This command outputs nothing from the text because the specific word "develop" appears nowhere within the text
