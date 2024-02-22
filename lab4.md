@@ -31,9 +31,10 @@ and pasted it into the terminal to clone my repository.
 ~~~~
 cd l<tab><enter>
 ~~~~
-,
+
 ![Image](step6.png)
 
+### Keys Pressed
 ~~~~
 bash t<tab><enter>
 ~~~~
@@ -45,18 +46,21 @@ Then I ran the bash script and used tab to find the "test.sh" file to run it fas
 
 ![Image](step7.png)
 
+### Keys Pressed
 ~~~~
 vim L<tab>.j<tab><enter>
 ~~~~
-,
 
 ![Image](step777.png)
 
+### Keys Pressed
 ~~~~
 44G<right><right><right><right><right>r2
 ~~~~
-,
+
 ![Image](step77.png)
+
+### Keys Pressed
 ~~~~
 :wq!<enter>
 ~~~~
@@ -65,6 +69,7 @@ vim L<tab>.j<tab><enter>
 
 ![Image](step8.png)
 
+### Keys Pressed
 ~~~~
 <up><up><enter>
 ~~~~
@@ -73,18 +78,21 @@ vim L<tab>.j<tab><enter>
 
 ![Image](step9.png)
 
+### Keys Pressed
 ~~~~
 git add .<enter>
 ~~~~
 
 ![Image](step99.png)
 
+### Keys Pressed
 ~~~~
 git commit -m "Fixed index"<enter>
 ~~~~
 
 ![Image](step999.png)
 
+### Keys Pressed
 ~~~~
 git push origin main<enter>
 ~~~~
