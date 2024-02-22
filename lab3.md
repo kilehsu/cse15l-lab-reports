@@ -64,7 +64,7 @@ actual occurences of the word.
 grep --color "kile" journal.pbio.0020001.txt
 ~~~~
 **Output**
-![Image](color2.png)
+![Image](color3.png)
 
 This command highlights the words in the text in color that match the phrase "kile". Since there's
 no color in the text at all it means that it didn't find that term.
