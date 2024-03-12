@@ -140,6 +140,7 @@ Here is the output in a text file because I redirected it. Hopefully this helps.
 From what I can tell, your code seems to be experiencing an infinite loop after taking steps
 using the jdb, I was able to see that `index1 += 1` at line 43 was the culprit as the while loop
 can only end if index2 is less then the size of list2. To fix this you need to change the line to `index2 += 1`.
+Also if you need further help with your other error with your code, please let me know as I noticed both of your tests failed.
 
 ## Part 2 - Reflection
 Something that I learned from the second half of this quarter was the usefulness of the JDB. I found that it helped me 
